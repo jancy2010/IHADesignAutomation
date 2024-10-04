@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-04T18:25:21 IST" name="Suite" finished-at="2024-10-04T18:27:21 IST" duration-ms="119486">
+    <groups>
+    </groups>
+    <test started-at="2024-10-04T18:25:21 IST" name="Test" finished-at="2024-10-04T18:27:21 IST" duration-ms="119486">
+      <class name="TestPkg.loginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestPkg.loginTest@5afa3c9]" started-at="2024-10-04T18:25:21 IST" name="setUp" finished-at="2024-10-04T18:25:28 IST" duration-ms="6829" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="logintest1()[pri:0, instance:TestPkg.loginTest@5afa3c9]" started-at="2024-10-04T18:25:28 IST" name="logintest1" finished-at="2024-10-04T18:25:33 IST" duration-ms="4891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest1 -->
+      </class> <!-- TestPkg.loginTest -->
+      <class name="TestPkg.registerTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestPkg.registerTest@48075da3]" started-at="2024-10-04T18:25:33 IST" name="setUp" finished-at="2024-10-04T18:25:38 IST" duration-ms="5327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="reg()[pri:0, instance:TestPkg.registerTest@48075da3]" started-at="2024-10-04T18:25:38 IST" name="reg" finished-at="2024-10-04T18:25:42 IST" duration-ms="4048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reg -->
+      </class> <!-- TestPkg.registerTest -->
+      <class name="TestPkg.buyItemTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestPkg.buyItemTest@2cb4893b]" started-at="2024-10-04T18:26:30 IST" name="setUp" finished-at="2024-10-04T18:26:38 IST" duration-ms="7260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="buyItem()[pri:0, instance:TestPkg.buyItemTest@2cb4893b]" started-at="2024-10-04T18:26:38 IST" name="buyItem" finished-at="2024-10-04T18:26:49 IST" duration-ms="11499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyItem -->
+      </class> <!-- TestPkg.buyItemTest -->
+      <class name="TestPkg.homeTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestPkg.homeTest@5e2c3d18]" started-at="2024-10-04T18:26:13 IST" name="setUp" finished-at="2024-10-04T18:26:22 IST" duration-ms="8721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="menuSelcetionTest()[pri:0, instance:TestPkg.homeTest@5e2c3d18]" started-at="2024-10-04T18:26:22 IST" name="menuSelcetionTest" finished-at="2024-10-04T18:26:30 IST" duration-ms="8719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuSelcetionTest -->
+      </class> <!-- TestPkg.homeTest -->
+      <class name="TestPkg.searchItem">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestPkg.searchItem@7a35b0f5]" started-at="2024-10-04T18:25:50 IST" name="setUp" finished-at="2024-10-04T18:26:00 IST" duration-ms="10220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="search()[pri:0, instance:TestPkg.searchItem@7a35b0f5]" started-at="2024-10-04T18:26:00 IST" name="search" finished-at="2024-10-04T18:26:13 IST" duration-ms="12728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+      </class> <!-- TestPkg.searchItem -->
+      <class name="TestPkg.footerTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestPkg.footerTest@5b218417]" started-at="2024-10-04T18:27:01 IST" name="setUp" finished-at="2024-10-04T18:27:07 IST" duration-ms="5980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="footer()[pri:0, instance:TestPkg.footerTest@5b218417]" started-at="2024-10-04T18:27:07 IST" name="footer" finished-at="2024-10-04T18:27:21 IST" duration-ms="13851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- footer -->
+      </class> <!-- TestPkg.footerTest -->
+      <class name="TestPkg.buyItemFromMainTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestPkg.buyItemFromMainTest@cc43f62]" started-at="2024-10-04T18:26:49 IST" name="setUp" finished-at="2024-10-04T18:26:57 IST" duration-ms="8018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="buy()[pri:0, instance:TestPkg.buyItemFromMainTest@cc43f62]" started-at="2024-10-04T18:26:57 IST" name="buy" finished-at="2024-10-04T18:27:01 IST" duration-ms="3466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buy -->
+      </class> <!-- TestPkg.buyItemFromMainTest -->
+      <class name="TestPkg.search1Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestPkg.search1Test@68c9133c]" started-at="2024-10-04T18:25:42 IST" name="setUp" finished-at="2024-10-04T18:25:49 IST" duration-ms="6250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="seacrching()[pri:0, instance:TestPkg.search1Test@68c9133c]" started-at="2024-10-04T18:25:49 IST" name="seacrching" finished-at="2024-10-04T18:25:50 IST" duration-ms="1537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seacrching -->
+      </class> <!-- TestPkg.search1Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
